@@ -1,0 +1,2 @@
+-- If you want to add a custom framework do so here, if you need extra support contact me via discord.
+-- https://discord.gg/trase
